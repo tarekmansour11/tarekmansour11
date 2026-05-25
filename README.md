@@ -43,14 +43,6 @@ Software engineer based in London, building data-intensive tools and AI-powered 
 
 ---
 
-## Professional Work
-
-**[PRODA](https://www.proda.ai)** — I work on document intelligence tooling at PRODA, helping real-estate teams extract, structure, and analyse data from unstructured documents at scale. Day-to-day this involves Python services, AI/LLM integration, API design, and data pipelines.
-
-> Most of what I build at PRODA lives in private repos — the skills above reflect what I use daily.
-
----
-
 ## Personal Projects
 
 | Project | Description | Status |
